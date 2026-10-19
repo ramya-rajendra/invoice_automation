@@ -1,0 +1,4 @@
+po_number,supplier,ordered_qty,received_qty,agreed_amount_eur,buyer
+PO-88213,Müller Stahl GmbH,400,400,8200.00,j.weber@example.com
+PO-88240,Kraus Logistik AG,12,12,3150.00,a.hoffmann@example.com
+PO-88177,Elektro Becker KG,250,220,5612.50,m.schulz@example.com

@@ -1,0 +1,4 @@
+pandas
+numpy
+matplotlib
+anthropic  # optional, only for LLM extraction
